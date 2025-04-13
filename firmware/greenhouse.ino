@@ -3,8 +3,8 @@
 #include "DHT.h"
 
 // WiFi credentials
-const char* ssid = "CE5";
-const char* password = "tigertiger";
+const char* ssid = "your_ssid_name";
+const char* password = "your_password";
 
 // Web server running on port 80
 WebServer server(80);
