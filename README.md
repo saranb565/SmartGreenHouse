@@ -79,17 +79,15 @@ To make the greenhouse truly *smart*, this project includes a **local web server
 
 ---
 
-## 📸 Images & Videos
+## 📸 Videos
 
 > _A sneak peek into the green brilliance – see the system grow, water, and glow in action!_ 🌿🎥
 
-### 🖼️ Project Setup
-![Greenhouse Setup](images/greenhouse_setup.jpg)
 
-### 💧 Watering Demo
-[![Irrigation Demo](images/pump_thumbnail.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+<iframe src="https://drive.google.com/file/d/1HC8XLMyL5YEI7rmqy5ANI6Iw-HHzJq5T/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1vOXY8bbDNE10Ww2sb9W5ss3K1KutyUFY/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1JnasNAYtFjgRNZPmGa3JK35rMygF_Gwe/preview" width="640" height="480" allow="autoplay"></iframe>
 
-> _Click to view the video on YouTube_ 🔗
 
 ---
 
