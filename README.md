@@ -83,7 +83,7 @@ To make the greenhouse truly *smart*, this project includes a **local web server
 
 > _A sneak peek into the green brilliance – see the system grow, water, and glow in action!_ 🌿🎥
 
-🎬 [Watch Video 1](https://drive.google.com/file/d/1HC8XLMyL5YEI7rmqy5ANI6Iw-HHzJq5T/preview)  
+🎬 [Watch Video 1](https://drive.google.com/file/d/1HC8XLMyL5YEI7rmqy5ANI6Iw-HHzJq5T/view?usp=sharing)  
 🎬 [Watch Video 2](https://drive.google.com/file/d/1vOXY8bbDNE10Ww2sb9W5ss3K1KutyUFY/preview)  
 🎬 [Watch Video 3](https://drive.google.com/file/d/1JnasNAYtFjgRNZPmGa3JK35rMygF_Gwe/preview)
 
